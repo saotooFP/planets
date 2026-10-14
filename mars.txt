@@ -1,1 +1,4 @@
 Cold and dry, but everything else is my favorite
+------
+some outline to show ammending commits
+--------
