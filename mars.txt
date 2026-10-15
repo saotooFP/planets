@@ -7,3 +7,6 @@ But the mom will appreciate the lack of humidity
 An ill-considered change
 la la la
 Practicing unstaging a file
+#fixed conflict
+testing conflict in mars.txt for branch testing
+
